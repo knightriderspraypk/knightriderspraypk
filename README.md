@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm KnightRiderPK 👋
 
-<!--
-**knightriderpk/knightriderpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 E-commerce entrepreneur from Pakistan
+🛍️ Founder of [Knight Rider Spray](https://knightriderspray.pk) — premium men's personal care, delivered discreetly across Pakistan
+💻 Building brands, online stores & digital experiences
 
-Here are some ideas to get you started:
+### 🛠️ What I do
+- E-commerce & WooCommerce stores
+- Brand building & digital marketing
+- SEO & content strategy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- 🌐 Website: [knightriderspray.pk](https://knightriderspray.pk)
+- 💼 LinkedIn: [Knight Rider Spray](https://www.linkedin.com/company/knightriderspray/)
+
+![KnightRiderPK's GitHub stats](https://github-readme-stats.vercel.app/api?username=knightriderpk&show_icons=true&theme=radical)
